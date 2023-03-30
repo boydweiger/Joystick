@@ -1,3 +1,6 @@
+#This program and the rest of the Pygame joystick documentation can be found at:
+#https://www.pygame.org/docs/ref/joystick.html
+
 import pygame
 
 pygame.init()
